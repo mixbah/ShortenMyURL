@@ -259,9 +259,6 @@ We welcome contributions! Please follow these guidelines:
 - Include browser/OS information when reporting frontend issues
 - Attach screenshots for UI-related problems
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
