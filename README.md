@@ -263,9 +263,9 @@ We welcome contributions! Please follow these guidelines:
 ## 📞 Contact
 
 **Author:** Mohammad Asad Misbah  
-**Email:** mohammadasadmisbah@example.com  
-**GitHub:** [mohammadasadmisbah](https://github.com/mohammadasadmisbah)  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**Email:** misbah6634@gmail.com  
+**GitHub:** [mohammadasadmisbah](https://github.com/mixbah)  
+**LinkedIn:** [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/misbahasad/))
 
 For questions, suggestions, or support, please open an issue on GitHub or contact the author directly.
 
